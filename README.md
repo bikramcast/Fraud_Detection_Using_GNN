@@ -51,7 +51,7 @@ Implemented using PyTorch Geometric:
 ## 📈 Visualizations
 
 <p align="center">
-  <img src="results/roc_curve.png" alt="ROC Curve" width="600"/>
+  <img src="https://github.com/bikramcast/Fraud_Detection_Using_GNN/blob/main/roc_curve.png/roc_curve.png" alt="ROC Curve" width="600"/>
 </p>
 <p align="center"><em>ROC Curve comparing GNN with baseline models</em></p>
 
