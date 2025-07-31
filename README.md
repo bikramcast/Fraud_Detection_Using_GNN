@@ -56,7 +56,7 @@ Implemented using PyTorch Geometric:
 <p align="center"><em>ROC Curve comparing GNN with baseline models</em></p>
 
 <p align="center">
-  <img src="results/confusion_matrix.png" alt="Confusion Matrix" width="600"/>
+  <img src="https://github.com/bikramcast/Fraud_Detection_Using_GNN/blob/main/confusion_matrix.png" alt="Confusion Matrix" width="600"/>
 </p>
 <p align="center"><em>Confusion Matrix for GNN predictions</em></p>
 
