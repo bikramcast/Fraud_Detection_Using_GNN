@@ -83,12 +83,27 @@ Example:
 
 ---
 
-## 📚 Reference Paper
+### 🔬 Research Potential
 
-**Title**: [X-FraudGNN: An Explainable Graph Neural Network Framework for Financial Fraud Detection](https://paperswithcode.com/paper/x-fraudgnn-an-explainable-graph-neural)
+This project replicates core ideas from a **recent, top-tier AI research paper** and demonstrates their practical application to fraud detection. It shows strong potential for future academic exploration and industry use cases:
 
-**Conference**: AAAI 2023  
-**Key Idea**: Introduces interpretable GNN-based fraud detection, allowing domain experts to understand suspicious patterns via subgraph explanations.
+- **Graph-based modeling** for structured data is applicable in finance, cybersecurity, and e-commerce.
+- **Explainable GNNs** can be critical for domains requiring transparency in decision-making (e.g., banking, healthcare).
+- Extensions such as **heterogeneous GNNs**, **temporal GNNs**, or **federated learning** can be explored in future work.
+
+---
+
+### 📚 Reference Paper
+
+This project is implemented based on the following research work:
+
+> **Title**: [X-FraudGNN: An Explainable Graph Neural Network Framework for Financial Fraud Detection](https://arxiv.org/abs/2301.12762)  
+> **Authors**: Xuan Liu, Yali Bian, Xuemin Lin, Lu Qin, Ying Zhang, Wenjie Zhang  
+> **Conference**: AAAI 2023  
+>  
+> **Key Contribution**: Introduces a graph-based explainable model that outperforms traditional fraud detection models and allows interpretation via meaningful subgraph extraction. It demonstrates the importance of using relational signals in transactional data.
+
+This implementation adapts their ideas into a simplified yet practical GNN pipeline for fraud detection using publicly available data.
 
 ---
 
