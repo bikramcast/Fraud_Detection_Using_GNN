@@ -49,21 +49,6 @@ Implemented using PyTorch Geometric:
 
 ---
 
-## 📈 Visualizations
-
-<p align="center">
-  <img src="results/roc_curve.png" alt="ROC Curve" width="600"/>
-</p>
-<p align="center"><em>ROC Curve comparing GNN with baseline models</em></p>
-
-<p align="center">
-  <img src="results/confusion_matrix.png" alt="Confusion Matrix" width="600"/>
-</p>
-<p align="center"><em>Confusion Matrix for GNN predictions</em></p>
-
-
----
-
 ## 🧪 Results
 
 | Model            | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
@@ -108,6 +93,5 @@ This implementation adapts their ideas into a simplified yet practical GNN pipel
 
 ---
 
-## 📁 Project Structure
 
 
