@@ -3,7 +3,8 @@
 This project implements a fraud detection system using Graph Neural Networks (GNNs), aiming to model the relational structure of financial transactions for more accurate fraud prediction. Inspired by recent research (e.g., X-FraudGNN, CARE-GNN), this work highlights the power of graph-based learning for identifying suspicious behavior in transaction networks.
 
 ---
-
+#pic
+https://github.com/bikramcast/Fraud_Detection_Using_GNN/blob/main/roc_curve.png
 ## 🧠 Motivation
 
 Traditional machine learning models often ignore the structural and contextual relationships between users, transactions, and devices. Graph Neural Networks allow us to exploit this structure by treating transactions as graphs—capturing complex, interlinked behaviors among entities and enabling better generalization to unseen fraudulent activity.
